@@ -7,3 +7,4 @@ During that bug will be removed
 The bug raised from the tester to developer
 Developer rebuild the program
 Bug will be clear
+Bug will Be ClEaR
