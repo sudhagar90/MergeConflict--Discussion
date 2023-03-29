@@ -7,4 +7,4 @@ During that bug will be removed
 The bug raised from the tester to developer
 Developer rebuild the program
 Bug will be clear
-Then the test will be done from tester perspective 
+Then the test will be done from tester perspective user
